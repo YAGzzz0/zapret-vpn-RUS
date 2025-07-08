@@ -1,7 +1,8 @@
 Для обхода РКН блокировок (игры, ютуб, дискорд и т.д.)
 Он работает сам, если выполнить несколько шагов (изначально потребуется разархивировать "AutoZap+Warp"):
 
-1 шаг: вам необходимо скачать "Cloudflare WARP" по ссылке https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/  там сразу же будет кнопка скачивания.
+1 шаг: вам необходимо скачать "Cloudflare WARP" по ссылке https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/ ![image](https://github.com/user-attachments/assets/89206ffc-d247-4870-ac41-9cd1d167d8e2)
+ там сразу же будет кнопка скачивания.
 
 2 шаг: запустите основной ярлык "general".
 
