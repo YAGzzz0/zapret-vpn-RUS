@@ -1,6 +1,6 @@
 # zapret-vpn-RUS
 Для обхода РКН блокировок (игры, ютуб, дискорд и т.д.)
-Он работает сам, если выполнить несколько шагов:
+Он работает сам, если выполнить несколько шагов (изначально потребуется разархивировать "AutoZap+Warp"):
 
 1 шаг: вам необходимо скачать "Cloudflare WARP" по ссылке https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/  там сразу же будет кнопка скачивания.
 
