@@ -17,5 +17,6 @@
 7 шаг: всё. Теперь нужно лишь проверить работает ли cloudflare справа снизу в галочке или на панели задач, попробуйте его переподключить перемещая ползунок, или скачайте более новую версию cloudflare WARP.
 
 Теперь у вас должно получится это:
-![image](https://github.com/user-attachments/assets/08cb2659-7e0e-4c91-bb6f-7ecd49937b2f)
+![image](https://github.com/user-attachments/assets/088b51c7-4285-4ebd-8aca-5932e6e26a9e)
+
 
